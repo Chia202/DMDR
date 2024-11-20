@@ -11,4 +11,6 @@ remotes::install_github("Chia202/DMDR")
 
 ## Reference
 
-[1] Z. Zhu, W. Xu, and L. Zhu, “Distributed Mean Dimension Reduction Through Semi-parametric Approaches,” STAT SINICA, 2025, doi: 10.5705/ss.202022.0157.
+[1] Z. Zhu, W. Xu, and L. Zhu, “Distributed Mean Dimension Reduction Through Semi-parametric Approaches,” Statistics Sinca, 2025, doi: 10.5705/ss.202022.0157.
+
+[2] Y. Ma and L. Zhu, “A Semiparametric Approach to Dimension Reduction,” Journal of the American Statistical Association, 2012, doi: 10.1080/01621459.2011.646925.
