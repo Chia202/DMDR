@@ -1,6 +1,7 @@
 # DMDR
 
-This package implements the distributed mean dimension reduction algorithm proposed by [Zhu et al. (2025)](https://www3.stat.sinica.edu.tw/preprint/SS-2022-0157_Preprint.pdf). You can refer to my [report](https://github.com/Chia202/DMDR/inst/doc/DMDR-Report.pdf) for more details.
+This package implements the distributed mean dimension reduction algorithm proposed by [Zhu et al. (2025)](https://www3.stat.sinica.edu.tw/preprint/SS-2022-0157_Preprint.pdf). You can refer to my [report](https://github.com/Chia202/DMDR/blob/main/inst/doc/DMDR-Report.pdf) for more details.
+
 
 You can install this package by running the following code in your `R` console:
 
