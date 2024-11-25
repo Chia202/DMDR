@@ -1,0 +1,17 @@
+nohup: ignoring input
+         used (Mb) gc trigger (Mb) max used (Mb)
+Ncells 354902 19.0     654180   35   654180 35.0
+Vcells 589460  4.5    8388608   64  1770431 13.6
+[1] "Start time:"
+[1] "2024-11-25 19:28:17"
+[1] "Number of times:"
+[1] 30
+Unit: seconds
+                                       expr      min       lq     mean   median
+                     dmdrSparse(data, m, d) 65.67472 78.25262 78.61362 78.66487
+ dmdrSparse(data, m, d, useParallel = TRUE) 20.54694 20.69041 21.34344 21.11358
+       uq      max neval
+ 79.22472 82.99277    30
+ 21.73204 22.83049    30
+[1] "End time:"
+[1] "2024-11-25 20:18:16"

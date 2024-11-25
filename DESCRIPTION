@@ -1,0 +1,14 @@
+Package: DMDR
+Type: Package
+Title: Distributed Mean Dimension Reduction Through Semi-parametric Approaches
+Version: 1.0
+Date: 2024-11-15
+Author: Xie Zhongming
+Maintainer: Zhongming <xzm1@ruc.edu.cn>
+Description: This package provides efficient methods for dimension reduction in large-scale data settings. It implements distributed semi-parametric approaches to reduce computational complexity while retaining accuracy. Core features include sparse and dense solutions for distributed mean dimension reduction, adaptive bandwidth selection, and integration with kernel-based regression techniques. The methods are particularly suited for high-dimensional datasets partitioned across multiple machines.
+License: GNU General Public License (>= 2)
+Imports: Rcpp (>= 1.0.13-1)
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 7.3.2
+Roxygen: list(markdown = TRUE)
+Encoding: UTF-8

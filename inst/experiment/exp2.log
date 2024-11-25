@@ -1,0 +1,342 @@
+nohup: ignoring input
+[1] "Start time:"
+[1] "2024-11-23 22:22:47"
+Replication: 1 
+disDP[i]: 0.433184 
+disSP[i]: 0.6554526 
+Replication: 2 
+disDP[i]: 0.513241 
+disSP[i]: 0.5958583 
+Replication: 3 
+disDP[i]: 0.4425699 
+disSP[i]: 0.6165806 
+Replication: 4 
+disDP[i]: 0.4497293 
+disSP[i]: 0.6584389 
+Replication: 5 
+disDP[i]: 0.4447525 
+disSP[i]: 0.5108491 
+Replication: 6 
+disDP[i]: 0.4883209 
+disSP[i]: 0.6223026 
+Replication: 7 
+disDP[i]: 0.4941857 
+disSP[i]: 0.5490364 
+Replication: 8 
+disDP[i]: 0.5606574 
+disSP[i]: 0.6296702 
+Replication: 9 
+disDP[i]: 0.4214759 
+disSP[i]: 0.6134981 
+Replication: 10 
+disDP[i]: 0.4423162 
+disSP[i]: 0.5940454 
+10 replications done.
+Mean distance (Dense Projection): 0.4690433 
+Mean distance (Sparse Projection): 0.6045732 
+Replication: 11 
+disDP[i]: 0.5015232 
+disSP[i]: 0.6056699 
+Replication: 12 
+disDP[i]: 0.5456436 
+disSP[i]: 0.6378063 
+Replication: 13 
+disDP[i]: 0.3996335 
+disSP[i]: 0.6491573 
+Replication: 14 
+disDP[i]: 0.4948007 
+disSP[i]: 0.6491519 
+Replication: 15 
+disDP[i]: 0.4232815 
+disSP[i]: 0.6943121 
+Replication: 16 
+disDP[i]: 0.5108448 
+disSP[i]: 0.5819435 
+Replication: 17 
+disDP[i]: 0.5278492 
+disSP[i]: 0.669777 
+Replication: 18 
+disDP[i]: 0.5504316 
+disSP[i]: 0.607336 
+Replication: 19 
+disDP[i]: 0.4144802 
+disSP[i]: 0.6806479 
+Replication: 20 
+disDP[i]: 0.4936937 
+disSP[i]: 0.5977928 
+20 replications done.
+Mean distance (Dense Projection): 0.4776307 
+Mean distance (Sparse Projection): 0.6209664 
+Replication: 21 
+disDP[i]: 0.3793548 
+disSP[i]: 0.5855653 
+Replication: 22 
+disDP[i]: 0.4084868 
+disSP[i]: 0.709238 
+Replication: 23 
+disDP[i]: 0.4830321 
+disSP[i]: 0.6094651 
+Replication: 24 
+disDP[i]: 0.4528739 
+disSP[i]: 0.6089812 
+Replication: 25 
+disDP[i]: 0.4816313 
+disSP[i]: 0.5164587 
+Replication: 26 
+disDP[i]: 0.4533501 
+disSP[i]: 0.6243785 
+Replication: 27 
+disDP[i]: 0.3677022 
+disSP[i]: 0.6328443 
+Replication: 28 
+disDP[i]: 0.4291576 
+disSP[i]: 0.5705983 
+Replication: 29 
+disDP[i]: 0.3990966 
+disSP[i]: 0.6901188 
+Replication: 30 
+disDP[i]: 0.4766302 
+disSP[i]: 0.6093027 
+30 replications done.
+Mean distance (Dense Projection): 0.4627977 
+Mean distance (Sparse Projection): 0.6192093 
+Replication: 31 
+disDP[i]: 0.429857 
+disSP[i]: 0.6490975 
+Replication: 32 
+disDP[i]: 0.3673062 
+disSP[i]: 0.6238718 
+Replication: 33 
+disDP[i]: 0.4444719 
+disSP[i]: 0.6496777 
+Replication: 34 
+disDP[i]: 0.4056118 
+disSP[i]: 0.6214596 
+Replication: 35 
+disDP[i]: 0.4367647 
+disSP[i]: 0.6518301 
+Replication: 36 
+disDP[i]: 0.5072158 
+disSP[i]: 0.6470766 
+Replication: 37 
+disDP[i]: 0.4209803 
+disSP[i]: 0.5943184 
+Replication: 38 
+disDP[i]: 0.4998595 
+disSP[i]: 0.6321923 
+Replication: 39 
+disDP[i]: 0.4963652 
+disSP[i]: 0.5872175 
+Replication: 40 
+disDP[i]: 0.4191745 
+disSP[i]: 0.599514 
+40 replications done.
+Mean distance (Dense Projection): 0.4577884 
+Mean distance (Sparse Projection): 0.6208133 
+Replication: 41 
+disDP[i]: 0.4130483 
+disSP[i]: 0.630171 
+Replication: 42 
+disDP[i]: 0.4269285 
+disSP[i]: 0.5919295 
+Replication: 43 
+disDP[i]: 0.4060782 
+disSP[i]: 0.5270378 
+Replication: 44 
+disDP[i]: 0.4680499 
+disSP[i]: 0.5796662 
+Replication: 45 
+disDP[i]: 0.4332526 
+disSP[i]: 0.5975322 
+Replication: 46 
+disDP[i]: 0.4219597 
+disSP[i]: 0.64584 
+Replication: 47 
+disDP[i]: 0.532292 
+disSP[i]: 0.6261043 
+Replication: 48 
+disDP[i]: 0.4864107 
+disSP[i]: 0.6152411 
+Replication: 49 
+disDP[i]: 0.4083686 
+disSP[i]: 0.5737251 
+Replication: 50 
+disDP[i]: 0.4335695 
+disSP[i]: 0.5742194 
+50 replications done.
+Mean distance (Dense Projection): 0.4548299 
+Mean distance (Sparse Projection): 0.61588 
+Replication: 51 
+disDP[i]: 0.4190947 
+disSP[i]: 0.5772141 
+Replication: 52 
+disDP[i]: 0.440836 
+disSP[i]: 0.6735663 
+Replication: 53 
+disDP[i]: 0.5038787 
+disSP[i]: 0.6648732 
+Replication: 54 
+disDP[i]: 0.4051642 
+disSP[i]: 0.6864344 
+Replication: 55 
+disDP[i]: 0.4245318 
+disSP[i]: 0.6681689 
+Replication: 56 
+disDP[i]: 0.4825218 
+disSP[i]: 0.6417507 
+Replication: 57 
+disDP[i]: 0.4388206 
+disSP[i]: 0.680665 
+Replication: 58 
+disDP[i]: 0.4955385 
+disSP[i]: 0.5486141 
+Replication: 59 
+disDP[i]: 0.427969 
+disSP[i]: 0.6425623 
+Replication: 60 
+disDP[i]: 0.5496199 
+disSP[i]: 0.6182931 
+60 replications done.
+Mean distance (Dense Projection): 0.4554912 
+Mean distance (Sparse Projection): 0.6199357 
+Replication: 61 
+disDP[i]: 0.4137654 
+disSP[i]: 0.6094592 
+Replication: 62 
+disDP[i]: 0.5853766 
+disSP[i]: 0.5843509 
+Replication: 63 
+disDP[i]: 0.4330299 
+disSP[i]: 0.6218958 
+Replication: 64 
+disDP[i]: 0.4760209 
+disSP[i]: 0.654263 
+Replication: 65 
+disDP[i]: 0.4603942 
+disSP[i]: 0.6968765 
+Replication: 66 
+disDP[i]: 0.4028907 
+disSP[i]: 0.6667801 
+Replication: 67 
+disDP[i]: 0.5167276 
+disSP[i]: 0.6513319 
+Replication: 68 
+disDP[i]: 0.4406573 
+disSP[i]: 0.6728512 
+Replication: 69 
+disDP[i]: 0.3937622 
+disSP[i]: 0.6474157 
+Replication: 70 
+disDP[i]: 0.4994815 
+disSP[i]: 0.648163 
+70 replications done.
+Mean distance (Dense Projection): 0.4564511 
+Mean distance (Sparse Projection): 0.6235647 
+Replication: 71 
+disDP[i]: 0.4994668 
+disSP[i]: 0.5882493 
+Replication: 72 
+disDP[i]: 0.4019234 
+disSP[i]: 0.6289752 
+Replication: 73 
+disDP[i]: 0.4081561 
+disSP[i]: 0.6569313 
+Replication: 74 
+disDP[i]: 0.6110588 
+disSP[i]: 0.646247 
+Replication: 75 
+disDP[i]: 0.4444478 
+disSP[i]: 0.6643758 
+Replication: 76 
+disDP[i]: 0.4802003 
+disSP[i]: 0.6596899 
+Replication: 77 
+disDP[i]: 0.4309085 
+disSP[i]: 0.611288 
+Replication: 78 
+disDP[i]: 0.4389498 
+disSP[i]: 0.5796169 
+Replication: 79 
+disDP[i]: 0.4311811 
+disSP[i]: 0.6477324 
+Replication: 80 
+disDP[i]: 0.4770142 
+disSP[i]: 0.6402041 
+80 replications done.
+Mean distance (Dense Projection): 0.457186 
+Mean distance (Sparse Projection): 0.6246605 
+Replication: 81 
+disDP[i]: 0.5074648 
+disSP[i]: 0.6309889 
+Replication: 82 
+disDP[i]: 0.4217382 
+disSP[i]: 0.6235228 
+Replication: 83 
+disDP[i]: 0.4418794 
+disSP[i]: 0.6543016 
+Replication: 84 
+disDP[i]: 0.4057902 
+disSP[i]: 0.6469984 
+Replication: 85 
+disDP[i]: 0.4531664 
+disSP[i]: 0.6407965 
+Replication: 86 
+disDP[i]: 0.431229 
+disSP[i]: 0.6245225 
+Replication: 87 
+disDP[i]: 0.3488333 
+disSP[i]: 0.6233936 
+Replication: 88 
+disDP[i]: 0.4554844 
+disSP[i]: 0.6264767 
+Replication: 89 
+disDP[i]: 0.4956882 
+disSP[i]: 0.6398428 
+Replication: 90 
+disDP[i]: 0.5018121 
+disSP[i]: 0.5848804 
+90 replications done.
+Mean distance (Dense Projection): 0.4559774 
+Mean distance (Sparse Projection): 0.6252063 
+Replication: 91 
+disDP[i]: 0.4283572 
+disSP[i]: 0.6096499 
+Replication: 92 
+disDP[i]: 0.4622649 
+disSP[i]: 0.5581164 
+Replication: 93 
+disDP[i]: 0.5100729 
+disSP[i]: 0.6450069 
+Replication: 94 
+disDP[i]: 0.4986741 
+disSP[i]: 0.6210885 
+Replication: 95 
+disDP[i]: 0.411205 
+disSP[i]: 0.4962326 
+Replication: 96 
+disDP[i]: 0.4841938 
+disSP[i]: 0.6325912 
+Replication: 97 
+disDP[i]: 0.4904057 
+disSP[i]: 0.6385857 
+Replication: 98 
+disDP[i]: 0.4641952 
+disSP[i]: 0.5989657 
+Replication: 99 
+disDP[i]: 0.4406473 
+disSP[i]: 0.6209063 
+Replication: 100 
+disDP[i]: 0.5475437 
+disSP[i]: 0.6655111 
+100 replications done.
+Mean distance (Dense Projection): 0.4577553 
+Mean distance (Sparse Projection): 0.6235522 
+Warning: stack imbalance in 'for', 2 then -2
+Dense Projection
+Mean : 0.4577553 
+Std  : 0.004916314 
+Sparse Projection
+Mean : 0.6235522 
+Std  : 0.00404325 
+[1] "End time:"
+[1] "2024-11-24 00:30:33"
